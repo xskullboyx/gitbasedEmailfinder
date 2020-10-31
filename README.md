@@ -17,3 +17,6 @@ gitbasedEmailfinder is a simple recon tool for find company internal email addre
 ---------
 
 1) bash gitbasedEmailfinder.sh
+
+
+# video poc : https://youtu.be/In_pb2GCaTY
